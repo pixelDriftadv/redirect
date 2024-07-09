@@ -4,7 +4,7 @@ const nextConfig = {
         return [
           {
             source: '/',
-            destination: 'https://pixeldrift.vercel.app/',
+            destination: 'https://youtube.com/playlist?list=PLcp1KqeP2WdkkZEpLNM4bxaEexyr2vvv9&si=SMyq_TDosUj-kM1E',
             permanent: true,
           },
         ]
