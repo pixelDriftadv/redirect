@@ -4,7 +4,7 @@ const nextConfig = {
         return [
           {
             source: '/',
-            destination: 'https://youtube.com/playlist?list=PLcp1KqeP2WdkkZEpLNM4bxaEexyr2vvv9&si=SMyq_TDosUj-kM1E',
+            destination: 'https://youtube.com/playlist?list=PLcp1KqeP2WdnV_P4OS4SHt23gU5jRF9ts',
             permanent: true,
           },
         ]
