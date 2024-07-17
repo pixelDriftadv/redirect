@@ -16,6 +16,7 @@ export default function Home() {
               ~made an instagram alternate account, talk to boys in that account <br/>
                ~dirty things with ANYONE<br/>
               Neither I trust your lie~<br/> {'"my dad doesn\'t let me talk to boys", I was stupid to even believe that'} <br/>
+              Forgive me I tried to make you guilty and a good person instead of doing dirty things with you <br/>
               <br/><br/>
             <span className='text-5xl'>
               {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship"}
