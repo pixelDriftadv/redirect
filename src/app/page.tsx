@@ -21,7 +21,8 @@ export default function Home() {
             <span className='text-5xl'>
               {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship"}
             </span><br/><br/>
-              {"being completely honest I don't trust you even a bit, but you do know my original nature, if you want me, get AIR under 20K this year as a proof to me that you aren't a dirty minded person"}
+              {"being completely honest I don't trust you even a bit, but you do know my original nature, if you want me, get AIR under 20K this year as a proof to me that you aren't a dirty minded person"} <br/>
+              {"I don't even think you're still watching my webapps, you're may be busy checking out the posts and pics of your new boyfriends"}
             </p>
     </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys ultimate motive would be to touch you in bad places and doing dirty things, take dirty benefits in the name of love but i my love is not the same i want to see you happy and safe around me all the time, tbh i sometimes feel i can be with you whole life without even touching you but still you beside me :)  may god always protect you from these scavengers
   );
