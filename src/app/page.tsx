@@ -23,6 +23,6 @@ export default function Home() {
             </span><br/><br/>
               {"being completely honest I don't trust you even a bit, but you do know my original nature, if you want me, get AIR under 20K this year as a proof to me that you aren't a dirty minded person"}
             </p>
-    </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys loves ultimate motive would be to touch you in ba places and doing dirty things but i my love is not the same i want to see you happy and safe around me all the time
+    </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys loves ultimate motive would be to touch you in ba places and doing dirty things but i my love is not the same i want to see you happy and safe around me all the time, may god always protect you from these scavengers
   );
 }
