@@ -6,7 +6,13 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between py-24 px-6">
             <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
-            Finally this come to an end <br/><br/>
+           I know o_s_t_d is your own account, its not even tough to guess it, stop lying liar <br/>
+              I doubt j_abro may be your alternate account, stop lying liar <br/>
+              I doubt c_n_441 may be your alternate account, following you? its Strange<br/>
+              i_s_732 following c_n_441, dirty stories, indirectly to you, I dont know whether you two chat in any other platform or maybe in real life sitting next to each other probably, JUST STOP LYING AROUND LIAR<br/>
+              {'"itz"'} in the username already defines he is a chappri, and you too have chappri mindset, I would be honest with it <br/>
+              I would never bring a chappri mindset person into my family<br/>
+              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR<br/><br/>
             <span className='text-5xl'>
               {"I don't trust girls, "} <u>definitely you</u>
             </span><br/><br/>
