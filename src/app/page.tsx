@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between py-24 px-6">
             <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
           <span className='text-5xl'>
-              ATLEAST DONT FREAKING LIE ALL THE TIME, JUST SAY IT ALREADY YOU ARE INTO SAHIL NOT ME, I WONT FEEL FREAKING BAD, I WOULD FEEL HAPPY YOUR PARENTS TAUGHT YOU HOW TO SAY THE TRUTH EVEN ONCE, JUST DONT FREAKING WASTE MY TIME. YOU LIKE A CHAPPRI, MARRY HIM, I HATE CHAPPRIS AND CHAPPRI MINDSET LIKE YOU HAVE</span><br/><br/>
+              ATLEAST DONT FREAKING LIE ALL THE TIME, JUST SAY IT ALREADY YOU ARE INTO SAHIL NOT ME, I WONT FEEL FREAKING BAD, I WOULD FEEL HAPPY YOUR PARENTS TAUGHT YOU HOW TO SAY THE TRUTH EVEN ONCE, JUST DONT FREAKING WASTE MY TIME. YOU LIKE A CHAPPRI, BE WITH HIM, I HATE CHAPPRIS AND CHAPPRI MINDSET LIKE YOU HAVE</span><br/><br/>
               I know o_s_t_d is your own account, its not even tough to guess it, stop lying liar, you damn follow i_s_732, he follows back o_s_t_d but your original account ss__? its Strange<br/>
               I doubt j_abro may be your alternate account, stop lying liar <br/>
               I doubt c_n_441 may be your alternate account, following you? its Strange<br/>
