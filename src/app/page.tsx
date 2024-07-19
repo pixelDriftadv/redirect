@@ -14,7 +14,7 @@ export default function Home() {
               i_s_732 following c_n_441, dirty stories, indirectly to you, I dont know whether you two chat in any other platform or maybe in real life sitting next to each other probably, JUST STOP LYING AROUND LIAR<br/>
               {'"itz"'} in the username already defines he is a chappri, and you too have chappri mindset, I would be honest with it <br/>
               I would never bring a chappri mindset person into my family<br/>
-              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR <br/> I have even caught you talking and laughing with other boys in my absence, FREAKING RED HANDEDLY <br/>
+              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR <br/> I have even caught you talking and laughing with other boys in my absence, FREAKING RED HANDEDLY ~ {'"my dad doesn\'t let me talk to boys"'} FREAKIN LIAR<br/>
               WHY AM I EVEN GIVING YOU MY PAID FOLLOWERS SERVICE FOR FREE? LET THAT CHAPPRI DO IT FOR YOU.
               <br/><br/>
             <span className='text-5xl'>
@@ -31,8 +31,8 @@ export default function Home() {
             <span className='text-5xl'>
               {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship"}
             </span><br/><br/>
-              {"being completely honest I don't trust you even a bit, but you do know my original nature, if you want me, get AIR under 20K this year as a proof to me that you aren't a dirty minded person"} <br/>
-              {"I don't even think you're still watching my webapps, you're may be busy checking out the posts and pics of your new boyfriends"}
+              {"NAH ITS ALL OVER, I COMPLETELY HATE YOU, DO WHATEVER THE HELL YOU WANT"} <br/>
+              {"I don't even think you're still watching my webapps, you're may be busy checking out the posts and pics of your new LOVELY boyfriends"}
             </p>
     </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys ultimate motive would be to touch you in bad places and doing dirty things, take dirty benefits in the name of love but i my love is not the same i want to see you happy and safe around me all the time, tbh i sometimes feel i can be with you whole life without even touching you but still you beside me :)  may god always protect you from these scavengers
   );
