@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between py-24 px-6">
             <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
-           I know o_s_t_d is your own account, its not even tough to guess it, stop lying liar, you damn follow i_s_732, he does not follows back o_s_t_d but your original account ss__? its Strange<br/>
+           I know o_s_t_d is your own account, its not even tough to guess it, stop lying liar, you damn follow i_s_732, he follows back o_s_t_d but your original account ss__? its Strange<br/>
               I doubt j_abro may be your alternate account, stop lying liar <br/>
               I doubt c_n_441 may be your alternate account, following you? its Strange<br/>
               i_s_732 following c_n_441, dirty stories, indirectly to you, I dont know whether you two chat in any other platform or maybe in real life sitting next to each other probably, JUST STOP LYING AROUND LIAR<br/>
