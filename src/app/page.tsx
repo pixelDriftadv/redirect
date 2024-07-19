@@ -14,7 +14,7 @@ export default function Home() {
               i_s_732 following c_n_441, dirty stories, indirectly to you, I dont know whether you two chat in any other platform or maybe in real life sitting next to each other probably, JUST STOP LYING AROUND LIAR<br/>
               {'"itz"'} in the username already defines he is a chappri, and you too have chappri mindset, I would be honest with it <br/>
               I would never bring a chappri mindset person into my family<br/>
-              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR<br/><br/>
+              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR <br/> I have even caught you talking and laughing with other boys in my absence, FREAKING RED HANDEDLY<br/><br/>
             <span className='text-5xl'>
               {"I don't trust girls, "} <u>definitely you</u>
             </span><br/><br/>
