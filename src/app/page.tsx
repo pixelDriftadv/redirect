@@ -25,7 +25,8 @@ export default function Home() {
               jaa na saale 10 log k saath pyaar karo 20 log se saath karo abb iska shakal bhi kabhi yaat matt rkhna<br/>
               mc bass iss baar aao bolte huye miscellaneous website kyu bheja tha? <u>randi kahike hum khud bol denge tereko yaha aane bola hi kaun tha, ambani ka website toh hai nahi joh baar baar dekhoge</u> <br/>
               emails screenshot hai read status ke saath tere parents ko bhi bhej payenge paar yeh londa humein de nahi rha screenshot itna katvane ke baad nahi toh abhi dhud ka dhud ho jaata ki yeh tere jaisi kutti ko phele disturb kiya ya tu iska website mein phele gussi<br/>
-          </p>
+         saale iss baar isko call karne ka koshish karo pakka sab screenshots jaayega tere parents ka number pe chuttiye <br/>
+            </p>
     </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys ultimate motive would be to touch you in bad places and doing dirty things, take dirty benefits in the name of love but i my love is not the same i want to see you happy and safe around me all the time, tbh i sometimes feel i can be with you whole life without even touching you but still you beside me :)  may god always protect you from these scavengers
   );
 }
