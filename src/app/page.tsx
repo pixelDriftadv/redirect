@@ -29,7 +29,7 @@ export default function Home() {
               Forgive me I tried to make you guilty and a good person instead of doing dirty things with you <br/>
               <br/><br/>
             <span className='text-5xl'>
-              {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship"}
+              {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship. Or you may be posting stories in your private alternate accounts for other bfs, continue doing that"}
             </span><br/><br/>
               {"NAH ITS ALL OVER, I COMPLETELY HATE YOU, DO WHATEVER THE HELL YOU WANT"} <br/>
               {"I don't even think you're still watching my webapps, you're may be busy checking out the posts and pics of your new LOVELY boyfriends"}
