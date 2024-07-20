@@ -7,7 +7,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between py-24 px-6">
             <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
           <span className='text-5xl'>
-           Saala yeh emotional chutiya khud toh yeh bkl relation khatam kar nahi paarha toh hum khud hi madad kardete hai kyu hai na kutti? <br/><br/>
+          yeh emotional chutiya khud toh yeh bkl relation khatam kar nahi paarha toh hum khud hi madad kardete hai kyu hai na kutti? <br/><br/>
             Saale kutte ki aulad kaat rhe ho iska maza aaya itna din <br/>abb aur nahi
             </span> <br/><br/>
               saala iss emotional chutiye ka roz kaat te ho na tm? <br/>
