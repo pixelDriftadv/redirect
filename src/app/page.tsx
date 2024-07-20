@@ -7,33 +7,22 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between py-24 px-6">
             <p className="z-10  whitespace-pre-wrap text-center text-xl font-bold tracking-tighter ">
           <span className='text-5xl'>
-              ATLEAST DONT FREAKING LIE ALL THE TIME, JUST SAY IT ALREADY YOU ARE INTO SAHIL NOT ME, I WONT FEEL FREAKING BAD, I WOULD FEEL HAPPY YOUR PARENTS TAUGHT YOU HOW TO SAY THE TRUTH EVEN ONCE, JUST DONT FREAKING WASTE MY TIME. YOU LIKE A CHAPPRI, BE WITH HIM, I HATE CHAPPRIS AND CHAPPRI MINDSET LIKE YOU HAVE</span><br/><br/>
-              I know o_s_t_d is your own account, its not even tough to guess it, stop lying liar, you damn follow i_s_732, he follows back o_s_t_d but your original account ss__? its Strange<br/>
-              I doubt j_abro may be your alternate account, stop lying liar <br/>
-              I doubt c_n_441 may be your alternate account, following you? its Strange<br/>
-              i_s_732 following c_n_441, dirty stories, indirectly to you, I dont know whether you two chat in any other platform or maybe in real life sitting next to each other probably, JUST STOP LYING AROUND LIAR<br/>
-              {'"itz"'} in the username already defines he is a chappri, and you too have chappri mindset, I would be honest with it <br/>
-              I would never bring a chappri mindset person into my family<br/>
-              So, its the end, a relationship only dies when the trust dies and you never did anything trustworthy enough LIAR <br/> I have even caught you talking and laughing with other boys in my absence, FREAKING RED HANDEDLY ~ {'"my dad doesn\'t let me talk to boys"'} FREAKIN LIAR<br/>
-              WHY AM I EVEN GIVING YOU MY PAID FOLLOWERS SERVICE FOR FREE? LET THAT CHAPPRI DO IT FOR YOU.
-              <br/><br/>
-            <span className='text-5xl'>
-              {"I don't trust girls, "} <u>definitely you</u>
-            </span><br/><br/>
-              Neither I want to keep stalking your profile to see how many new boyfriends you made nor how many boys try to impress you, follow you, post story for you <br/>
-              I {"don't"} actually trust you enough to know whether you -  <br/>
-              ~bought a new sim, new whatsapp account, talk to boys with that account <br/>
-              ~made an instagram alternate account, talk to boys in that account <br/>
-               ~dirty things with ANYONE<br/>
-              Neither I trust your lie~<br/> {'"my dad doesn\'t let me talk to boys", I was freaking stupid to even believe that'} <br/>
-              Forgive me I tried to make you guilty and a good person instead of doing dirty things with you <br/>
-              <br/><br/>
-            <span className='text-5xl'>
-              {"Don't post any stories if its for me, its alright for your other boyfriends howsoever, Don't ever stalk me I am goddamned done with this toxic relationship. Or you may be posting stories in your private alternate accounts for other bfs, continue doing that"}
-            </span><br/><br/>
-              {"NAH ITS ALL OVER, I COMPLETELY HATE YOU, DO WHATEVER THE HELL YOU WANT"} <br/>
-              {"I don't even think you're still watching my webapps, you're may be busy checking out the posts and pics of your new LOVELY boyfriends"}
-            </p>
+            Saale kutte ki aulad kaat rhe ho iska maza aaya itna din <br/>abb aur nahi
+            </span> <br/>
+              saala iss emotional chutiye ka roz kaat te ho na tm? <br/>
+              saala yahi ek no kutta h ladki pe vishwas rakhta h saala katva rha tha itna din se <br/>
+              aur tm bsdk mc aisa ladka ka kat te re ho joh saala kabhi ldki ke aas pass bhi nahi jaata <br/>
+              saale thora toh aukat mein raho khud instagram ka aukat rakhe ho chutiye kahike bolte ho ambani ka website hai, kutte ki aulad khud itna bhi banane ka aukat rakhe ho <br/>
+              jeon_abro tera hi account h mc itz_kalam itz_sahil saale kitne log se pyarr ka natak karte ho khubsurat kutte? joh tera asli aukat ka kaam hai h vahi bol rhe h <br/>
+              aur abe saale jhutha pyar ka natak karte ho kutte saale isske saath <br/>
+              saale ko aaj takk kabhi gaali dete nahi sune h saala humlog khud iske saamne gaali nahi dete itna accha behaviour aur background aaya h banda <br/>
+              saali kutti isko bhi gaali diyo ho <br/>
+              jhutha natak karte ho pyaar ka yeh toh khud hi tereko dusra ladka log se baat karte dekha hua h kitta kahinka tum jaiso pe vishwas rakhta h <br/>
+              rukk saale hum khud iske parents ko bata rhe h yeh kya kya karta h itna din tujh jaise kutti se pyar karta tha <br/>
+              abb koi natak karne ka zarurat nahi h saala abb kabhi tera account ke aas pass bhi nahi dikhega <br/>
+              jaa be saale rakhle free followers bsdk <br/>
+              mera aukat puchogi, software engineer Bengaluru, tera jaise ke aukat k bahar<br/>
+          </p>
     </main> // writing this on 17/7/24, Sorry Sana, my futue wife, i have no other option left for you to complete your dream, I trust and love you, i know other boys ultimate motive would be to touch you in bad places and doing dirty things, take dirty benefits in the name of love but i my love is not the same i want to see you happy and safe around me all the time, tbh i sometimes feel i can be with you whole life without even touching you but still you beside me :)  may god always protect you from these scavengers
   );
 }
