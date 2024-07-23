@@ -3,7 +3,7 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '',
+        source: '/',
         destination: 'https://www.instagram.com/necroz.xyc/',
         permanent: true,
       },
