@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link'
 import AnimatedGridPattern from '../../components/magicui/animated-grid-pattern';
 import { cn } from '../../lib/utils';
 
