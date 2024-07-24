@@ -14,7 +14,8 @@ export default function Home() {
               <br/><br/>
               You think your all profiles with no B won my trust? <br/>
               {" Not even close, I have been talking to you roughly for 4 years now, I know everything :) "}<br/>
-            
+            <br/>
+              <Link href="https://www.instagram.com/necroz.xyc/"><span className="text-blue-600 underline">checked out my new pfp,{" rate on 1-10? ;)"}</span></Link>
               
             </p>
     </main> 
